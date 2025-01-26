@@ -16,7 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Aura",
+  title: "Image Color Palette",
   description: "Get colors used in your image",
 };
 
