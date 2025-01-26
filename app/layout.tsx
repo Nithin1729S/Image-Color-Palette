@@ -17,7 +17,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Image Color Palette",
-  description: "Get colors used in your image",
+  description: "Extract the colors present in your image",
 };
 
 export default function RootLayout({
