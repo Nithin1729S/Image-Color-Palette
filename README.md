@@ -1,7 +1,7 @@
 # Image Color Palette
 
 ## Overview
-**Image Color Palette** is a Next.js-based web application that allows users to extract color palettes from uploaded images. Users can easily upload an image, view its color composition, and copy color values in different formats (RGB, HEX, HSL). The app features a clean UI with light/dark theme support.
+**Image Color Palette** is a Next.js-based web application that allows users to extract color palettes from uploaded images. Users can easily upload an image, view its color composition, and copy color values in different formats (RGB, HEX, HSL).
 
 ## Screenshots
 
